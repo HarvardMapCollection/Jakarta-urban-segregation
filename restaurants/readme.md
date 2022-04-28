@@ -1,0 +1,1 @@
+This data was extracted from OpenStreetMap on April 28, 2022. 
